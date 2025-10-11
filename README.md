@@ -101,7 +101,10 @@ run_weatherstar.bat
 
 **Linux/Mac:**
 ```bash
-chmod x+c run_weatherstar.sh && ./run_weatherstar.sh
+chmod +x run_weatherstar.sh
+```
+```bash
+./run_weatherstar.sh
 ```
 
 **Or directly with Python:**
