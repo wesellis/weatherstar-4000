@@ -83,7 +83,7 @@ The WeatherStar 4000 was the iconic weather information system used by The Weath
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/WeatherStar-4000-Python.git
+git clone https://github.com/wesellis/WeatherStar-4000-Python.git
 cd WeatherStar-4000-Python
 ```
 
@@ -101,7 +101,7 @@ run_weatherstar.bat
 
 **Linux/Mac:**
 ```bash
-./run_weatherstar.sh
+chmod x+c run_weatherstar.sh && ./run_weatherstar.sh
 ```
 
 **Or directly with Python:**
